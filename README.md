@@ -1,9 +1,7 @@
-# Assignment Description
+# I Can Cook Day
 
-written by 
+written by SS '23
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-SS)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-SS)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+This is a cupcake game
